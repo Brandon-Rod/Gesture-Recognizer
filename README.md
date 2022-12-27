@@ -11,4 +11,5 @@
 - No third-party libraries
 
 ## Technologies Used
+- UIKit
 - UIPanGestureRecognizer
